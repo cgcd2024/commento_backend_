@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+/Users/singidong/eclipse-workspace/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+2403659221.index
+295623405.index
+2166347295.index
+13951640.index
+3648534390.index
+1356770272.index

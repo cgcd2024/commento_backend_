@@ -1,0 +1,3 @@
+#Tomcat publish data
+#Tue Jan 23 14:29:52 KST 2024
+org.eclipse.jst.jee.server\:/binary\:/Users/singidong/.m2/repository/org/springframework/spring-web/5.1.8.RELEASE/spring-web-5.1.8.RELEASE.jar=WEB-INF/lib/spring-web-5.1.8.RELEASE.jar
