@@ -7,5 +7,12 @@
 
 
 
+
+
+
+
+
 * 설정완료
+
+
 ![image](https://github.com/cgcd2024/commento_backend_/assets/113968344/e21ea022-24a0-413a-b869-ddf7c49a6e2e)
